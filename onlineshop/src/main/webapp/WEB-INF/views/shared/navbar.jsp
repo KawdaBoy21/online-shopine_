@@ -8,7 +8,7 @@
               <a class="nav-link" id="about" href="${contextRoot}/about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" id="listProducts" href="${contextRoot}/listProduct">View Product</a>
+              <a class="nav-link" id="listProducts" href="${contextRoot}/show/all/products">View Product</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" id="contact" href="${contextRoot}/contact">Contact</a>

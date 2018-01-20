@@ -14,6 +14,13 @@
   </properties>
   
   <dependencies>
+  
+  <!-- Linking backend -->
+  <dependency>
+   	<groupId>com.shop</groupId>
+  	<artifactId>shop_backend</artifactId>
+  	<version>0.0.1-SNAPSHOT</version>
+  </dependency>
   <!-- JAVA EE API -->
   <dependency>
     <groupId>javax</groupId>
